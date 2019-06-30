@@ -5,16 +5,13 @@
            
            "place name":"kullu",
 
-           "Geography":"Kullu town has an average elevation of 1,278 m 4,193 ft. It lies on the bank of Beas River. A major tributary, Sarvari, derived from Shiv-Baardi leads to the less explored and steeper Lug-valley onthe west. On the east of Kullu lies a broad mountainous ridge having the village-temples of Bijli Mahadev, Mounty Nag and Pueed. Beyond the ridge lies Manikaran valley, along the Paarvati river which joins Beas at Sangam in Bhuntar.On the south of Kullu lie the town of Bhuntar, Out (leading to Anni, Banjar and Siraj Valley) and Mandi (in Mandi district). Historically Kullu was accessiblefrom Shimla via Siraj valley or through passes on the west leading to Jogindernagar and onto Kangra. To the north lies the town of Manali,which through the Rohtang pass leads onto the Lahaul and Spiti Valley. One can see an enormous change in the climate as one climbs up the windward side of the ranges to proceed to the leeward and much drier plateaus to the north of Manali.",
+           "Geography":"Kullu ",
 
+           "Climate":"December and January ",
 
-           "Climate":"December and January during winter observe lowest temperatures ranging from -4 to 20 C (25 to 68 F), with some snowfall.Evenings and mornings are very cold during winters. Annual highest temperature in summer ranges from 24 to 34 C (75 to 93 F) during May to August. Months of July and August are rainy because of monsoon, having around 150 mm  rainfall monthly. Climate is pleasant in October and November.",
+           "Attractions":"The Kullu valley is ',
 
-           "Attractions":"The Kullu valley is known as the Valley of the Gods or Dev Bhumi due to many pilgrimage sites for Hindus, Buddhists and Sikhs alike.5 Kullu is known for its open valley meadows and scenic views of the Himalayan mountain range. Kullu area is known for Kullu shawl, made of many natural fibers including pashmina,sheep-wool and angora. The seven-day festival of Kullu Dussehra, a celebration of Avatar Lord Rama's victory over the evil king Ravana. The festival takes place in the months of October or November, depending upon the Hindu calendar.",
-               
-
-           "Sightseeing":"Great Himalayan National Park GHNP, Raghunath Temple ,Shringi Rishi Temple- Banjar ,Maha Devi Tirth Temple,Bijli Mahadev Temple,Devta Narsingh,Raison,Shoja,Basheshwar Mahadev Temple,Bajaura,Kasol,Naggar,Hidimba Temple,Kais Dhar,International Angora Breeding Farm,Fungani Mata Temple,Beasar Valley."
-         
+           "Sightseeing":"Great Himalayan National Park GHNP"
  }
 ]
 }
