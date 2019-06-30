@@ -9,7 +9,7 @@
     
 
 
-           "Climate":"December and January during winter observe lowest temperatures ranging from -4 to 20 °C (25 to 68 °F), with some snowfall.Evenings and mornings are very cold during winters. Annual highest temperature in summer ranges from 24 to 34 °C (75 to 93 °F) during May to August. Months of July and August are rainy because of monsoon, having around 150 mm (5.9 in) rainfall monthly. Climate is pleasant in October and November.",
+           "Climate":"December and January during winter observe lowest temperatures ranging from -4 to 20 C (25 to 68 F), with some snowfall.Evenings and mornings are very cold during winters. Annual highest temperature in summer ranges from 24 to 34 C (75 to 93 F) during May to August. Months of July and August are rainy because of monsoon, having around 150 mm (5.9 in) rainfall monthly. Climate is pleasant in October and November.",
 
            "Attractions":"The Kullu valley is known as the "Valley of the Gods" or "Dev Bhumi" due to many pilgrimage sites for Hindus, Buddhists and Sikhs alike.[5] Kullu is known for its open valley meadows and scenic views of the Himalayan mountain range. Kullu area is known for Kullu shawl, made of many natural fibers including pashmina,sheep-wool and angora. The seven-day festival of Kullu Dussehra, a celebration of Avatar Lord Rama's victory over the evil king Ravana. The festival takes place in the months of October or November, depending upon the Hindu calendar.",
                
