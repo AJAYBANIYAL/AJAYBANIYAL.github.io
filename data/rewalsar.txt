@@ -1,0 +1,14 @@
+ {
+                     "rewalsar"=[{"id":"4",
+                     "place name ":"Rewalsar",
+
+                     "Geography":"Rewalsar is located at an altitude of 1360 m above sea level. It is connected to Mandi by a motorable road and is about 25 km from Mandi. Lying in the Southern Himalayan belt, winters in Rewalsar can be freezing, while summers are generally pleasant.[2]",
+
+                     "Climate":"Rewalsar's climate is classified as warm and temperate. The summers here have a good deal of rainfall, while the winters have very little. ... In Rewalsar, the average annual temperature is 19.2 °C. The rainfall here averages 1824 mm.",
+
+                 "Attractions":" Rewalsar or Tso Pema in Tibetan is a small town and a pilgrimage place in a nagar panchayat in Mandi district in India. It is located in the state of Himachal Pradesh. The local name for Rewalsar is Tri Sangam. Rewalsar Lake is a tourist spot in the area. Wikipedia",
+
+                 "Sightseeing":"Rewalsar lake , Naina mata temple, Rewalsar zoo,Budhist temple"
+             }
+             ]
+}    
